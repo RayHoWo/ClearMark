@@ -1,8 +1,9 @@
 # ClearMark
 
-Version: `v1.1`
+Version: `v1.2`
 
 ClearMark is a personal icon set for my traffic dispatch and proxy profile configuration.
+
 
 ## Style
 
@@ -40,7 +41,7 @@ https://raw.githubusercontent.com/RayHoWo/ClearMark/main/<IconName>.png
 Example:
 
 ```text
-https://raw.githubusercontent.com/RayHoWo/ClearMark/main/Proxy.png?v=1.1
+https://raw.githubusercontent.com/RayHoWo/ClearMark/main/Proxy.png?v=1.2
 ```
 
 
